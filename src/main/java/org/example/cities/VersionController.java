@@ -8,6 +8,6 @@ public class VersionController {
 
     @RequestMapping("/version")
     public String index() {
-        return "BlueApp_Amgen";
+        return "GreenApp_Amgen";
     }
 }
